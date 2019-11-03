@@ -1,2 +1,4 @@
 # Delirium
-Delirium: frammenti sull'uomo, un libro di frammenti
+Delirium: frammenti sull'uomo
+
+By F. B. Oleandro
